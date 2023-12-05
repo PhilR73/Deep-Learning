@@ -1,0 +1,9 @@
+ipykernel
+pip-chill
+numpy
+pillow
+tqdm
+scikit-image
+torch
+torchvision
+matplotlib
