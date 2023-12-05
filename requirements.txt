@@ -7,3 +7,5 @@ scikit-image
 torch
 torchvision
 matplotlib
+fastai
+boto3
