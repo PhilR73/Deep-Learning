@@ -4,8 +4,13 @@ numpy
 pillow
 tqdm
 scikit-image
-torch
-torchvision
 matplotlib
 fastai
 boto3
+ipywidgets
+
+# https://pytorch.org/get-started/locally/ for PyTorch with CUDA
+-i https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio

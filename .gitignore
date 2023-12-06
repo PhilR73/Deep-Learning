@@ -1,4 +1,5 @@
 images_training/
+res18-unet.pt
 
 *.pyc
 
