@@ -4,5 +4,40 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.words": [
+			"astype",
+			"cmap",
+			"Colab",
+			"Conv",
+			"downconv",
+			"downnorm",
+			"downrelu",
+			"fastai",
+			"figsize",
+			"gdown",
+			"grayscale",
+			"hyperparameters",
+			"idxs",
+			"imshow",
+			"Isola",
+			"kaiming",
+			"Leacky",
+			"lsgan",
+			"optim",
+			"preds",
+			"pretrain",
+			"pretrained",
+			"pretraining",
+			"randn",
+			"skimage",
+			"torchvision",
+			"tqdm",
+			"unet",
+			"untar",
+			"upconv",
+			"upnorm",
+			"uprelu"
+		]
+	}
 }
